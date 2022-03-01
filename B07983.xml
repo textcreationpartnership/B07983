@@ -1,0 +1,556 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Meditations concerning praiers to almighty God, for the safety of England, when the Spaniards were come into the narrow seas, August 1588. As also other meditations concerning thanksgiuing, for deliuering Englande from the cruelty of the Spaniards, and for their meruailous confusion and ouerthrow. / By O.Pygge. ; With a spirituall song of praises by P. Turner Doctor of Physicke..</title>
+            <author>Pigg, Oliver, b. ca. 1551.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1589</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07983</idno>
+            <idno type="STC">STC 19916.3</idno>
+            <idno type="STC">ESTC S94725</idno>
+            <idno type="EEBO-CITATION">68222527</idno>
+            <idno type="OCLC">ocm 68222527</idno>
+            <idno type="VID">183775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183775)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2197:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Meditations concerning praiers to almighty God, for the safety of England, when the Spaniards were come into the narrow seas, August 1588. As also other meditations concerning thanksgiuing, for deliuering Englande from the cruelty of the Spaniards, and for their meruailous confusion and ouerthrow. / By O.Pygge. ; With a spirituall song of praises by P. Turner Doctor of Physicke..</title>
+                  <author>Pigg, Oliver, b. ca. 1551.</author>
+                  <author>Turner, Peter, 1542-1614. Spirituall song to the praise of almightie God, for deliuering England from the Spaniards.</author>
+               </titleStmt>
+               <extent>[70] p.   </extent>
+               <publicationStmt>
+                  <publisher>by R. R[obinson] for Thomas Man.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1589..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures:A-D⁸ E³.</note>
+                  <note>Head-pieces, initials.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>"A spirituall song to the praise of almightie God, for deliuering England from the Spaniards. By P. Turner Doctor of Phisicke." -- p. [67]-[70].</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Armada, 1588 --  Meditations --  Early works to 1800.</term>
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183775:1"/>
+            <pb facs="tcp:183775:1" rendition="simple:additions"/>
+            <p>MEDITATIONS Concerning praiers to <hi>Al<g ref="char:EOLhyphen"/>mighty God, for the ſafety of</hi> ENGLAND, when the Spaniards <hi>were come into the narrow</hi> Seas, Auguſt 1588.</p>
+            <p>
+               <hi>As alſo other meditations concerning</hi> thankſgiuing, for deliuering Englande from the cruelty of the Spaniards, and for their <hi>meruailous confuſion and ouerthrow.</hi>
+            </p>
+            <p>By O. Pygge.</p>
+            <p>With a ſpirituall ſong of praiſes by P. Turner Doctor of phiſicke.</p>
+            <q>
+               <bibl>
+                  <hi>Pſalme, 145.18.</hi>
+               </bibl>
+               <p>The Lord is neere to all that call vpon him: yea, to all that cal vpon him in truth.</p>
+               <bibl>
+                  <hi>Pſalme, 126.2.3.</hi>
+               </bibl>
+               <p>Then was our mouth filled with laughter, and our tongue with ioy: then ſaid they among the Heathen, the Lorde hath done great things for them.</p>
+               <p>The Lord hath done great things for vs, whereof we reioyce.</p>
+            </q>
+            <p>Printed at <hi>London</hi> by <hi>R. R.</hi> for Thomas Man. 1589.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:183775:2"/>
+            <pb facs="tcp:183775:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Anie are the waies, by the which our moſt mercifull God, hath ſought to bring vs of <hi>England</hi> vn<g ref="char:EOLhyphen"/>to true repentaunce. Who is able to recken vp all the benefites, ſpirituall and temporall, that we haue receiued at his handes? As, the light of the Goſpell ſhining in the middeſt of vs, and the meruailous preſeruation of our gratious Prince, to our ſpeciall comfort, notwithstanding the mani<g ref="char:EOLhyphen"/>fold
+<pb facs="tcp:183775:3"/>
+wretched practiſes of the wic<g ref="char:EOLhyphen"/>ked againſt her Highneſſe perſon, &amp; the ſtate, which he from time to time hath diſcouered, and brought many of the principall authors to their de<g ref="char:EOLhyphen"/>ſerued confuſion. He hath alſo chaſti<g ref="char:EOLhyphen"/>ſed vs ſundrie times, and in diuerſe maners threatned vs more plagues, than as yet he hath brought vppon vs. Among other warninges, this ought ſpecially to bee remembred for euer,<note place="margin">
+                  <hi>Jſa.</hi> 7.18.</note> that this laſt Su<g ref="char:cmbAbbrStroke">̄</g>mer, hiſſing for the Spaniards, he brought the<g ref="char:cmbAbbrStroke">̄</g> ſo far from their owne Country, &amp; ſo nere vnto our coaſts, with reſolute minds to haue made hauocke of vs. Jt was not without him, as blaſpheming <hi>Rabſache</hi> ſpake of his maſters for<g ref="char:EOLhyphen"/>ces comming againſt <hi>Hieruſalem,</hi>
+               <note place="margin">
+                  <hi>Jſa.</hi> 36, 10.</note>
+               <pb facs="tcp:183775:3" rendition="simple:additions"/>
+no doubt more truely then hee was ware of. True it is, their purpoſe was not to doe that which the Lorde meant, but rather in the pride of their hearts to haue made manifeſt breaches of his commaundements, in ſeeking the ſuppreſſing of his truth here profeſſed, and the conqueſt of a lande, whereunto they can make no iuſt claime or title. Howbeit, wee ought to looke into the Lordes ſecrete purpoſe ouer-ruling all, and carrying men to that which they knowe not, yea, cleane contrarie to that which they purpoſe,<note place="margin">
+                  <hi>Jſa.</hi> 10.6.7.</note> euen in the ſelfe ſame action.</p>
+            <p>Therefore whatſoeuer they inten<g ref="char:EOLhyphen"/>ded, the Lorde in them ſhooke his rod ouer vs, to draw vs to repentance,
+<pb facs="tcp:183775:4"/>
+that ſo in deede hee might not ſtrike. He put vs in great feare, that ſo hee might driue vs to flie to him, where onely comfort is, by earneſt praiers. At that time many praied and con<g ref="char:EOLhyphen"/>feſſed ſinnes: and bleſſed bee his name, that for his owne honour, hearde the cries of his poore ſeruants, ſo bearing witnes, that it is no vain thing, in the time of diſtreſse, to humble our ſelues before him. How bleſſed the euent hi<g ref="char:EOLhyphen"/>therto hath bin, is generally knowen amongnſt vs, and the comfort thereof what true Engliſh heart is there, that doth not feele and reioyce there<g ref="char:EOLhyphen"/>in? Jt remaineth that the daunger then imminent beeing eſcaped, wee of this Natian doe not onely with our mouthes, continually giue God prai<g ref="char:EOLhyphen"/>ſes:
+<pb facs="tcp:183775:4" rendition="simple:additions"/>
+but that alſo by the rodde thus ſhaken ouer vs, and as it were readie to haue bene laid vpon our ſhoul<g ref="char:EOLhyphen"/>ders, we learn to turne to him, forſa<g ref="char:EOLhyphen"/>king our euill waies, leaſt not profi<g ref="char:EOLhyphen"/>ting thus, as the Lorde calleth for at our handes, in the ende he bring vpon vs deſerued destruction. Againſt this destruction as it is my part alwaies to praie, &amp; by Gods aſſistance I hope to praie: ſo I ſhould haue great cauſe to be glad, if by any meanes the Lord would vouchſafe to vſe me as his in<g ref="char:EOLhyphen"/>ſtrument, to ſtirre vp, though neuer ſo few, to ſuch a ſerious conſideration of theſe thinges as ought to bee in all. For the which purpoſe I preſent vnto thee (Christian Reader) this little treatiſe heere following, containing
+<pb facs="tcp:183775:5"/>
+certaine meditations of praiers and thanksgiuings. Thoſe that be of prai<g ref="char:EOLhyphen"/>ers, I wrote at ſuch time as the Spa<g ref="char:EOLhyphen"/>niardes were come into the narrow ſeas, and then there were ſome copies written to the vſe of ſome friendes. True it is, in the confeſſion of ſinnes, vpon ſome occaſio<g ref="char:cmbAbbrStroke">̄</g> there is ſome thing altered from that which was then written: but in the reſt, J remember little otherwiſe than was then ſette downe, as the copies then giuen forth can beare witneſſe. Since our won<g ref="char:EOLhyphen"/>derful deliuerance, I wrote the other meditations concerning thankeſgi<g ref="char:EOLhyphen"/>uing, Both ioyned together in ſome vritten bookes, I haue ſithence pre<g ref="char:EOLhyphen"/>ſented to ſome of good calling, to whome J was bounden to wiſhe all
+<pb facs="tcp:183775:5" rendition="simple:additions"/>
+good, as well for their profeſſion of the truth, as for ſpeciall kinde<g ref="char:EOLhyphen"/>neſſes towarde mee. And to more J had ſome purpoſe, that waie to haue made them common. How<g ref="char:EOLhyphen"/>beit beeing read ouer by ſome lear<g ref="char:EOLhyphen"/>ned and godlie men of good iudge<g ref="char:EOLhyphen"/>ment, which thought they might bee profitable if they were put in print: I was content in that be<g ref="char:EOLhyphen"/>halfe to yeelde vnto their iudge<g ref="char:EOLhyphen"/>ment, and accordinglie doe heere offer them to thy viewe. J hope thou mayeſt make ſome vſe vnto thy ſelfe of either of them, if thou reade them with a ſanctified minde. For, although the Meditations concerning Praiers maye ſeeme vnto ſome to no greate purpoſe,
+<pb facs="tcp:183775:6"/>
+becauſe that occaſion for that time is now remoued. Yet the ſinnes of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> doe ſtil remaine, with which no doubt God is highly diſpleaſed. Theſe thou maiſt there ſee in ſome ſort con<g ref="char:EOLhyphen"/>feſsed, as alſo how by thy ſelfe, from a feeling heart thou maiſt confeſſe both them and thine owne, and humbly craue pardon. Moreouer, the hatred and mallice of the Spaniard and his partakers, is not yet quenched, but rather we may be aſſured, much more increaſed, ſo as they will but wait op<g ref="char:EOLhyphen"/>portunitie to ſet vpon vs againe. Be<g ref="char:EOLhyphen"/>ſides, other Churches, as thoſe of <hi>France</hi> and of the lowe Countries, whoſe caſe wee ought to tender, haue many deadly enemies, which thirſte after bloude. So as ſtill neceſſarily
+<pb facs="tcp:183775:6" rendition="simple:additions"/>
+there is required an imploying of our and their forces, againſt ſuch commo<g ref="char:cmbAbbrStroke">̄</g> aduerſaries. I hope that fro<g ref="char:cmbAbbrStroke">̄</g> thoſe me<g ref="char:EOLhyphen"/>ditations, thou maiſt haue ſome help, to further thee with comforte in thy praiers for the one, and againſt the o<g ref="char:EOLhyphen"/>ther. The meditations for thankeſgi<g ref="char:EOLhyphen"/>uing, J truſt to euery indifferent rea<g ref="char:EOLhyphen"/>der, will ſeeme to be of ſome vſe. My purpoſe is not, to require that either of them bee vſed, as an ordinarie forme of praier or thankeſgiuing, but that by reading of them, and exerci<g ref="char:EOLhyphen"/>ſing thy ſelfe ſometimes in them, thou ſhouldeſt helpe thy ſelfe, towards a ſe<g ref="char:EOLhyphen"/>rious accompliſhme<g ref="char:cmbAbbrStroke">̄</g>t of thoſe dueties, though thou do it more ſhortly and in other words. Jf for theſe endes, this my poore trauaile, may any way fur<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:183775:7"/>
+thee, I praie thee giue the praiſe to God, to whome alone it is due, and remember to praie moſt earneſtly for me, and for all the reſt, whom it plea<g ref="char:EOLhyphen"/>ſeth him to vſe in anie ſort for thy comfort. This one thing I deſire to haue remembred, that many of the thinges ſpecially mentioned in the praiers, haue bene gratiouſly perfor<g ref="char:EOLhyphen"/>med of the Lord, &amp; accordingly they be acknowledged in the tha<g ref="char:cmbAbbrStroke">̄</g>ksgiuing: to aſſure vs (as was ſaid before) that praiers ſpecially ioined with true fasting, be not in vaine, but to ſingu<g ref="char:EOLhyphen"/>lar purpoſe. And yet, J deſire not to be ſo mistaken, as if J arrogated any thing to my poore and weake prai<g ref="char:EOLhyphen"/>ers, made by me in my publike mini<g ref="char:EOLhyphen"/>ſterie, or priuate exerciſe. No, I doe
+<pb facs="tcp:183775:7" rendition="simple:additions"/>
+vnfainedly from my heart acknow<g ref="char:EOLhyphen"/>ledge mine owne vnworthineſſe, to bee hearde crying for my ſelfe, much more for the Church and this ſtate. J am perſuaded, that the things which I then meditated, and which the Lord directed me to write, were alſo thought vpon, and remembred with more feruencie of ſpirite and ſingle<g ref="char:EOLhyphen"/>neſſe of heart, by other the faithfull ſeruants of God, Preachers and pro<g ref="char:EOLhyphen"/>feſſours, of our owne Nation, and of other Countries. They ſtoode vp in the gap, they cried to the Lorde,<note place="margin">
+                  <hi>Exo.</hi> 17.11.</note> they helde vp their handes, and <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath preuailed. They in deede were chariots, horſemen, and forces by ſea and land, as to that purpoſe <hi>E<g ref="char:EOLhyphen"/>liſha</hi> ſpake of <hi>Elias,</hi> &amp; <hi>Ioaſh</hi> of him.<note place="margin">2. <hi>Reg.</hi> 2.12. <hi>&amp;</hi> 13.14.</note>
+               <pb facs="tcp:183775:8"/>
+Their praiers made in the bitter mourning of their ſoules, for their owne and our ſinnes, did the Lorde heare, bleſſing the worthy ſeruice of our valiant Countrimen imploide in thoſe affaires, and without meanes, doing wonderfully for vs: not for any worthineſſe in themſelues, or in their praiers, but for the worthineſſe of Chriſt Ieſus, and for the honor of his owne name.</p>
+            <p>Jt doth remaine that thou thy ſelfe bee carefull, wiſelie to applie the fearefull warning of the Lord, in the enemies comming againſt vs, and his vnſpeakable mercie in our wonder<g ref="char:EOLhyphen"/>full deliueraunce, to ſtirre thee vp to vnfained conſcience of pleaſing him, in thy ſelfe, and ſuch as be of thy ſpe<g ref="char:EOLhyphen"/>ciall
+<pb facs="tcp:183775:8" rendition="simple:additions"/>
+charge. As alſo to praie, that whatſoeuer is amiſſe in the land, and ſo diſpleaſeth our moſt mercifull God, may bee amended. Whatſoeuer thou art, I exhort thee earneſtlie to call vpon the Lorde, that the controuer<g ref="char:EOLhyphen"/>ſies riſen vp amongſt our ſelues, may christianlie and brotherlie bee com<g ref="char:EOLhyphen"/>pounded. That ſo the peace of our worthie Church beeing procured: we may all, whether we be Preachers or profeſſours, proceede one waie accor<g ref="char:EOLhyphen"/>ding to the truth, to bestowe whatſo<g ref="char:EOLhyphen"/>euer gift wee haue, to the rooting out of all ſinne, and to the establiſhment of the kingdome of Chriſt Ieſus, in the hearts of all thoſe, that bee vnder any of our charges. Specially, becauſe the harueſt is great,<note place="margin">
+                  <hi>Math.</hi> 9.</note> and the labou<g ref="char:EOLhyphen"/>rers
+<pb facs="tcp:183775:9"/>
+in compariſon bee but few, praie the Lorde of the harueſt, that ſuch men whome he hath ſanctified in life &amp; learning, ſo as it were, ſeparating them,<note place="margin">
+                  <hi>Gal.</hi> 1.15.</note> from their mothers wombes, to the worke of the miniſterie, may bee thruſt out into his harueſt, and con<g ref="char:EOLhyphen"/>tinue in the ſame with much com<g ref="char:EOLhyphen"/>fort to doe their dutie. As alſo that ſuch as bee altogether vnfit for ſo great a burthen, may haue nothing to doe in the moſt holie miniſterie of the Lord. Thoſe whome theſe cauſes doe anie waie concerne, moſt humblie and with all reuerence, vppon the knees of heart, euen in the bowels of Chriſt Jeſus I doe intreate, to ſhewe their zeale to his honour, which ſhed his moſt precious bloud for their ſins,
+<pb facs="tcp:183775:9" rendition="simple:additions"/>
+and their compaſſion vpon their dere brethren &amp; Countrie men his mem<g ref="char:EOLhyphen"/>bers, in many places of the Realme yet wallowing in ignorance, &amp; other ſins, in doing what they can, that all the people of the land may be inſtruc<g ref="char:EOLhyphen"/>ted in the euerlaſting truth of God, that ſo they may walke in the obedi<g ref="char:EOLhyphen"/>ence of his bleſsed maieſtie, and in all dutie to our gratious Prince, and all ſuch as vnder her gouerne the ſtate. If theſe cauſes of ſo great importance be not loked vnto as they ought, but that iniquitie be ſtill ſuffered to grow and to abounde, notwithſtanding all that which the Lord hath ſaid to vs from his worde, and wonderfullie done for vs; I will wiſh to weepe in ſecrete, and that mine eies may
+<pb facs="tcp:183775:10"/>
+drop downe teares, for what els may we looke for, but the captiuitie of the Lordes flocke. And thus doe I com<g ref="char:EOLhyphen"/>mend thee (Christian Reader,) to the Lorde, and my ſelfe to bee remem<g ref="char:EOLhyphen"/>bred of thee, in thy moſt earneſt prai<g ref="char:EOLhyphen"/>ers. March. <hi>7. 1588.</hi> the meruai<g ref="char:EOLhyphen"/>lous yeere, in respect of the Lorde his wonderfull deliuerance of vs, and the confuſion brought vpon our enemies, and the enemies of his Church, he make vs alwaies thank<g ref="char:EOLhyphen"/>full, Amen.</p>
+            <closer>
+               <signed>Oliuer Pygge.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="meditations">
+            <pb facs="tcp:183775:10" rendition="simple:additions"/>
+            <head>Meditations concerning <hi>Praiers to almightie God,</hi> for the ſafetie of England, <hi>when the Spaniards were</hi> come into the narrow <hi>Seas, Auguſt.</hi> 1588.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Lord God almightie, terrible, and fearefull God, thou Lorde of Hoſtes, iudge of the worlde, which hateſt ſinne, and viſiteſt the tranſgreſſions of the Fathers vpon the children, to the thirde and fourth generation of them that hate thée; Wée moſt miſerable ſinners doe in moſt humble manner throwe our ſelues downe before thy maieſtie: acknowledg<g ref="char:EOLhyphen"/>ing that wee are not worthy of the leaſt of thy mercies, no, not ſo much as to goe vpon the ground, or to looke vp vnto hea<g ref="char:EOLhyphen"/>uen: much more vnworthy are wée to
+<pb n="4" facs="tcp:183775:11"/>
+haue this fauour, to call vpon thy name, with anie hope to be heard, and to find fa<g ref="char:EOLhyphen"/>uour in thine eies, for the obtaining of our requeſts, for our ſelues, and the reſt of thy people, for whom wee are bounde to pray.<note place="margin">
+                  <hi>Pſa.</hi> 50.15</note> Yet, becauſe it is thy commaunde<g ref="char:EOLhyphen"/>ment, that we ſhould call vpon thée in our troubles,<note place="margin">
+                  <hi>Pſa.</hi> 145.18</note> and further thou haſt promiſed to bee néere thoſe that call vppon thée in truth: In ſome meaſure of conſcience to obey thy commaundement, and truſting vnto thy great mercie, we do humble our ſelues before thée. Praying thée, that wée may not be of the number of them, whoſe praiers bee abhominable in thy ſight (ac<g ref="char:EOLhyphen"/>cording as it is with them that regarde wickednes in their harts, and turne their eares from thy law:<note place="margin">
+                  <hi>Pſa.</hi> 66.18.</note>) but that we may ſo pray vnto thée in ſorrow for our ſins paſt,<note place="margin">
+                  <hi>Pro.</hi> 28.9.</note> in vnfained deſire to pleaſe thée for the time to come, in a true perſuaſion of thy fauour to vs in Chriſt, and in ſuch a loue of thy Church, that our ſeruice may be al<g ref="char:EOLhyphen"/>lowed of thée, and our ſelues &amp; all they for whom we are to make ſute, may receiue much comfort, of our performing this du<g ref="char:EOLhyphen"/>tie, euen to the honour of thy name.</p>
+            <p>
+               <pb facs="tcp:183775:11" rendition="simple:additions"/>And becauſe it is our ſinnes onely,<note place="margin">
+                  <hi>Jſa.</hi> 59.2.</note> that make ſeparation betwéene thée and vs, kéeping away the good bleſſinges, which thou elſe wouldeſt giue, and pulling vpon vs the plagues, which thou art not eaſily drawne to powre vpon thy children; We doe firſt of all in moſt humble maner con<g ref="char:EOLhyphen"/>feſſe, that as we were conceiued in ſinne and brought forth in iniquity: ſo we haue beſides, yéelded moſt curſed fruits of that our corrupt nature in rebellion againſt thée, and breaking thy commandements, in our thoughts, words, and déedes, in do<g ref="char:EOLhyphen"/>ing euil, and leauing good things vndone, and doing good things very weakely and imperfectlie. And that not onely in the daies of our youth, and in the time of our ignoraunce, but alſo ſince wee came to more yeeres, and haue béene inſtructed in the knowledge of thy bleſſed will. O wée haue ſinned, wée haue ſinned hainouſly, in neglecting thy ſeruice, and our duety to our brethren in our callinges. Wée haue ſinned openlie and ſecretelie, alone and in companie, yea, oftentimes wilfullie and againſt our conſciences, when wée knew thy commandement was, that wée
+<pb n="6" facs="tcp:183775:12"/>
+ſhould haue done otherwiſe.</p>
+            <p>Yea, wee doe not onely thus confeſſe our owne ſinnes, but alſo after the exam<g ref="char:EOLhyphen"/>ple of thy worthy ſeruants,<note place="margin">
+                  <hi>Dan,</hi> 9.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Nehe.</hi> 1.6 <hi>&amp;</hi> 9.34.</note> 
+               <hi>Daniel</hi> &amp; <hi>Ne<g ref="char:EOLhyphen"/>hemiah,</hi> we confeſſe the ſins of our whole land, acknowledging, that we, our forefa<g ref="char:EOLhyphen"/>thers, our princes, our gouernours, our whole Eccleſiaſticall ſtate, &amp; all the peo<g ref="char:EOLhyphen"/>ple of the Realme, haue fearefully ſinned againſt thee. If wee were guilty of no o<g ref="char:EOLhyphen"/>ther ſins before thy maieſtie, the idolatry &amp; bloudſhed in the former times, yet not reuenged, nor repented of as they ought, were ſufficient to bring vtter deſolation vpon a lande, wherein ſuch abhominati<g ref="char:EOLhyphen"/>ons were committed, as thy ſeruant <hi>Ie<g ref="char:EOLhyphen"/>remie</hi> in his time,<note place="margin">
+                  <hi>Jere.</hi> 15.4.</note> threatened the Iewes for the ſinnes of <hi>Manaſſe.</hi> But (O Lorde) what haue béen the iniquities committed ſince our deliuerance from that yoke, and thy beſtowing vppon vs the light of thy Goſpel? O, haue we not all from the high<g ref="char:EOLhyphen"/>eſt to the loweſt damnably ſinned againſt thée? yes verily. If we would denie it, our iniquities would teſtifie againſt vs. For, which of thy commandementes haue wée not broken? If we looke to thoſe foure of
+<pb n="7" facs="tcp:183775:12" rendition="simple:additions"/>
+the firſt table, which teach vs our duetie towards thée, or thoſe ſix of the ſecond ta<g ref="char:EOLhyphen"/>ble, which teach vs howe to walke in our callinges towardes men: O wee ſhall be found meruailouſly faulty before thy ma<g ref="char:EOLhyphen"/>ieſtie. And that, not only ſome of the peo<g ref="char:EOLhyphen"/>ple, but euen euery ſort, ſtate, and condi<g ref="char:EOLhyphen"/>tion: not in ſome part of the lande alone, but euery where, in euery quarter and corner, yea, in euery houſe and familie. For (O Lorde) wée haue loued the vaine things of the worlde, more than thée and thy word: we haue béene more loth to diſ<g ref="char:EOLhyphen"/>pleaſe men than thy maieſtie: wee haue made fleſh our arme, putting our truſt in man, and withdrawen our heartes from thée.<note place="margin">
+                  <hi>Jere.</hi> 17.5.</note> Howe ſeldome and colde haue our praiers bin? And how ſparing our thanks to thée for the innumerable benefites be<g ref="char:EOLhyphen"/>ſtowed vpon vs and our nation? What i<g ref="char:EOLhyphen"/>dolatry hath bin committed heere by Pa<g ref="char:EOLhyphen"/>piſts in corners, and by ſtrangers of other countries? There hath wanted care to a<g ref="char:EOLhyphen"/>mend thinges throughly, according to the rule of thy word. Thy name hath infinit<g ref="char:EOLhyphen"/>ly bin blaſphemed: for where almoſt can we come, in the houſe or in the ſtréete, but
+<pb n="8" facs="tcp:183775:13"/>
+wee ſhall heare this moſt ſhamefully, by the greater, and by the meaner, by the el<g ref="char:EOLhyphen"/>der and by the yonger ſort, which take thy glorious name in vaine, ſpeaking of thée raſhly and vnreuerently, yea, ſwearing without cauſe, forſwearing, curſing, and ſuch like. O thy Sabothes, there is ſcarce one among manie, which maketh conſci<g ref="char:EOLhyphen"/>ence according to thy law, to dedicate the<g ref="char:cmbAbbrStroke">̄</g> wholie vnto thy ſeruice publikelie &amp; pri<g ref="char:EOLhyphen"/>uatelie, but as if they were anie other daies, ſo they bee beſtowed: yea, manie thinke it lawfull to follow a riotous and prophane courſe then, which vppon other daies they woulde thinke vnfit for them. And how fearefull examples hereof, haue we had from the great places and perſo<g ref="char:EOLhyphen"/>nages of the lande? The ſuperiours in the common wealth, in the Church, and in the houſe, haue not done their duetie to their inferiours. The inferiours like<g ref="char:EOLhyphen"/>wiſe haue béene meruailous vndutifull to their Prince, and the reſt which thou in thy wiſedome diddeſt ſet ouer them. The lande hath abounded with murthers, ſlaughters, quarrels, fightinges and con<g ref="char:EOLhyphen"/>tentions, with inceſts, adulteries, whor<g ref="char:EOLhyphen"/>domes,
+<pb n="9" facs="tcp:183775:13" rendition="simple:additions"/>
+dronkennes, exceſſiue pride in ap<g ref="char:EOLhyphen"/>parrell: filthie ſtage plaies haue béene ſuf<g ref="char:EOLhyphen"/>fered euen in our chiefeſt citie, and vppon the Saboths. Thefts be common, oppreſ<g ref="char:EOLhyphen"/>ſions, deceits, vſuries, lying, falſe witnes bearing, and ſuch like. O we are not able to recken vp the innumerable ſins, of the which we and the whole land may iuſtlie be indited and araigned before thy maie<g ref="char:EOLhyphen"/>ſtie. They which haue béene in place to puniſh ſin, and to maintaine well dooing, haue dealt too too fauorably with ſinners, on the other ſide not cheriſhing the godly as was their dutie. The miniſters which ſhould boldly haue reproued theſe corrup<g ref="char:EOLhyphen"/>tions in all ſorts and ſtates, haue for the moſt part béene vnable to doe this, &amp; ma<g ref="char:EOLhyphen"/>ny of them corrupt in their conuerſation, they haue winked at diſorders, daubing with vntempered morter,<note place="margin">
+                  <hi>Ezec.</hi> 21.28</note> that will not hold, as if nothing had béen amiſſe, and no danger toward, when as iniquitie migh<g ref="char:EOLhyphen"/>tily preuailed amongſt vs, and thou in thy high diſpleaſure didſt threaten war. Iuſt is the complaint of thy ſeruant <hi>Ieremy</hi> in his time againſt ſuch Miniſters.<note place="margin">
+                  <hi>Lame.</hi> 2.14.</note> They haue looked out vaine and fooliſh thinges
+<pb n="10" facs="tcp:183775:14"/>
+for vs, they haue not diſcouered our ini<g ref="char:EOLhyphen"/>quities, to turne away our captiuity, but haue lookt out for vs falſe propheſies and cauſes of baniſhment. True it is, we haue had ſome deſirous to doe their dutie, who alſo accordingly haue laboured, but euen diuerſe of them haue béene euill intrea<g ref="char:EOLhyphen"/>ted, by wicked and vngodly men, which could not abide to heare their faultes re<g ref="char:EOLhyphen"/>proued. Whereas in the mean time, they haue liked well of ſuch, which ſéeking themſelues onely and their owne eaſe, haue béene vnable to inſtruct them in thy waies, by occaſion whereof, many of the people of the lande haue béene kept in ig<g ref="char:EOLhyphen"/>norance of thy maieſtie, and ſuffred to goe on in their other ſins.</p>
+            <p>And although thou (O Lord our God) in tender care of vs, haſt warned vs of theſe great ſinnes, by our Preachers in their Sermons, and ſome of their bookes, which haue béene grauelie and dutifullie written: yea, although thou haſt ſought to moue our hard harts by thy benefites, ſo as we haue inioyd thy goſpel, outward peace and plentie, when as the Nations
+<pb n="11" facs="tcp:183775:14" rendition="simple:additions"/>
+about vs haue bene meruailouſly diſtreſ<g ref="char:EOLhyphen"/>ſed, euen as vntil this time their wounds bée bléeding newe, and remaine vncured. And further, we haue had many wonder<g ref="char:EOLhyphen"/>full deliueraunces of our Prince, to our great comfort: and moreouer thou haſt threatned vs by inſurrection in our owne lande, by vnſeaſonable times of too much drought, or too much raine, by deſtroying ſome fruites of the earth, by ſcarſitie, by the peſtilence, by ſignes in heauen, and by a fearefull earthquake, not many yeeres paſt: yet haue not we of this nation pro<g ref="char:EOLhyphen"/>fited by anie of theſe, to bewaile our ſins, &amp; to turne vnto thée, as it did become vs. But haue deſpiſed thy Prophets, which ſpake to vs in thy name, and haue ſtill gone away from thee, multiplying our tranſgreſſions againſt thy maieſtie. So as now moſt iuſtly there belongeth to vs, to our Princes, gouernors, teachers, and to all the people of the land,<note place="margin">
+                  <hi>Dan.</hi> 9.7:8.</note> nothing but ſhame and confuſion of face, yea, vtter de<g ref="char:EOLhyphen"/>ſtruction of our Nation and ſtate: wher<g ref="char:EOLhyphen"/>of, when wée looke into our great ſinnes, wée may feare, that thou haſt prepared
+<pb n="12" facs="tcp:183775:15"/>
+the <hi>Spaniard,</hi> and ſuch as take his parte, to be thy executioners. Wherein alſo wée doe confeſſe, that thou ſhalt be moſt iuſt, if thou giue vs and our kingdome ouer into their hands.</p>
+            <p>Notwithſtanding, becauſe thou art a God ful of mercie and infinite in compaſ<g ref="char:EOLhyphen"/>ſion,<note place="margin">
+                  <hi>Ezec.</hi> 18.23.</note> and haſt alwaies ſhewed thy ſelfe ſo to bée, not delighting in the deſtruction of ſinners, but rather deſiring their repen<g ref="char:EOLhyphen"/>tance, that they might liue and inioy thy fauour.<note place="margin">
+                  <hi>Jere.</hi> 18.7.8</note> Who haſt ſaid by thy ſeruant <hi>Ie<g ref="char:EOLhyphen"/>remie,</hi> that when thou ſpeakeſt againſt a nation, threatning to root it vp, and to de<g ref="char:EOLhyphen"/>ſtroie it, yet thou wilt ſpare it, if they turne from their wickedneſſe, according as wée ſée it in the example of the <hi>Nini<g ref="char:EOLhyphen"/>uites.</hi>
+               <note place="margin">Jonah.</note> Truſting vnto theſe, and ſuch other promiſes in thy worde, that we doe iudge our ſelues and our nation woorthie of all miſery, do notwithſtanding pray thée, for our Lorde Ieſus Chriſt his ſake, to haue mercie vpon vs, to forgiue vs &amp; our land, all the ſins, whereof we be guiltie before thée. O purſue vs not with thy iudge<g ref="char:EOLhyphen"/>ments, as wee haue giuen thée cauſe, for then we muſt néedes periſh eternally. A<g ref="char:EOLhyphen"/>mong
+<pb facs="tcp:183775:15" rendition="simple:additions"/>
+other plagues, from the which we praie thée to bée deliuered, preſerue vs we beſéech thée from the handes of the <hi>Spani<g ref="char:EOLhyphen"/>ards</hi> &amp; other idolaters, which haue conſpi<g ref="char:EOLhyphen"/>red againſt our nation, to root out thy reli<g ref="char:EOLhyphen"/>gion from hence, to place Papiſtry again, and to diſpoſſeſſe vs of that parte of the earth, which it ſéemed good vnto thée to al<g ref="char:EOLhyphen"/>lowe vs to dwell in, &amp; where alſo through thy goodnes, we and our forefathers haue inhabited now many yeres. We confeſſe, that for our vnwoorthie walking of thy Goſpell, and ill behauing of our ſelues in this pleaſant lande, it may iuſtly ſpue vs out, and thou maieſt ſuffer the enemies to preuaile. But remember (O Lord) that theſe men be not behind vs in ſinnes (for they be a moſt wicked generatio<g ref="char:cmbAbbrStroke">̄</g>) neither is it our ſinnes that they do ſo much looke vnto in comming againſt vs, as thy reli<g ref="char:EOLhyphen"/>gion among vs profeſſed, and our renoun<g ref="char:EOLhyphen"/>cing the man of ſinne, the Biſhop of <hi>Rome</hi> thine enemie, &amp; the enemie of thy Chriſt. So as now whatſoeuer we be that do de<g ref="char:EOLhyphen"/>fend it, or howſoeuer we do defend it, the cauſe is thine owne, therfore looke vnto it we deſire thée for the glorie of thy name, and for Ieſus Chriſts ſake. O why ſhould
+<pb n="14" facs="tcp:183775:16"/>
+ſuch wicked men as theſe blaſpheme thy name,<note place="margin">
+                  <hi>Pſal.</hi> 79.10.</note> ſaying, where is their God, and the religion they haue ſo long profeſſed? As though the religion were not good, which we haue receiued from thy word, or as if thou wouldeſt not defende thoſe that pro<g ref="char:EOLhyphen"/>feſſe the ſame. O remember thy auncient mercies ſhewed to this Nation manie yéeres, breake not off till thou haſt fini<g ref="char:EOLhyphen"/>ſhed them, by giuing yet further helps to thy Church and religion here, for the bet<g ref="char:EOLhyphen"/>ter ſubduing of all the people vnder thy gouernment. Deliuer vs (O Lorde) wee pray thée at this time. Trie vs yet once more, that our magiſtrats and miniſters may in their callinges reforme whatſoe<g ref="char:EOLhyphen"/>uer is amiſſe, and indeuour to bring the whole lande into better order, that thou maieſt delight to fauor vs for euer. That theſe thy bleſſings may bee obtained, O driue away from our hearts the meruai<g ref="char:EOLhyphen"/>lous ſecuritie wherin we haue ſlept theſe many yéeres, imagining that our waies did pleaſe thée, and that no plague ſhould come néere vnto vs, when we liued verie ſinfully in all ſorts and ſtates, and ſo pro<g ref="char:EOLhyphen"/>uoked thée to diſpleaſure. Grant that by theſe thy fearefull warnings, we may at
+<pb facs="tcp:183775:16" rendition="simple:additions"/>
+length be moued to confeſſe our ſinnes, to lament them, to humble our ſelues before thée in faſting and praier, to turne from our wicked waies, to enter into a newe courſe, and to make a ſure couenant, for euer hereafter in our callinges to doe our dueties better, that thou maieſt ſpare vs, and ſtaie thy hande from our deſtruction. And howſoeuer we haue meanes for our defence by ſea and lande,<note place="margin">
+                  <hi>Pſa.</hi> 20.7.</note> yet kéepe vs wée pray thée, from truſting in them: though others put their truſt in their horſes,<note place="margin">
+                  <hi>Pſal.</hi> 6.4. 1. <hi>Sam.</hi> 17 45.</note> in their ſhips and multitude of men. O ſhew the light of thy countenance vpon vs, and graunt that in thy name onely, truſting to thy mercie, &amp; in thy ſtrength, we may come forth againſt theſe our aduerſaries. And as for them that thus boile in malice againſt thy religion, and vs thy moſt vn<g ref="char:EOLhyphen"/>worthie ſeruants: O turne their hearts if they belong to thée, open their eies to ſée thy trueth, that they may with vs depart from that Antichriſt of <hi>Roome,</hi> loue thy Goſpell, our nation, and all the profeſſors of thy truth. Or elſe (Lord) as thou haſt begun (for the which we do in moſt hum<g ref="char:EOLhyphen"/>ble manner giue thanks vnto thée) ſo we pray thée to goe forward, to curſe them in
+<pb n="16" facs="tcp:183775:17"/>
+all their actions by ſea and by lande. Let their table be a ſnare before them,<note place="margin">
+                  <hi>Pſal</hi> 69.22 23</note> &amp; their proſperitie their ruine. Let their eies be blinded that they may not ſée, and make their loines alway to tremble. Strike the<g ref="char:cmbAbbrStroke">̄</g> with ſuch feare, that the ſound of a leafe ſhaken may make them to quake, &amp; that as wicked men they may flie,<note place="margin">
+                  <hi>Leuit.</hi> 26.36</note> when no man purſueth them.<note place="margin">
+                  <hi>Pro.</hi> 28.1.</note> Scatter their coun<g ref="char:EOLhyphen"/>ſels, ouerthrowe their forces, turne their owne ſwords one againſt another, and ſo prouide by thy mightie power, that the things which they haue prepared for our deſtruction, may be vſed in thy iuſtice, for the execution of thy long deſerued wrath vpon themſelues. And ſo bring them to naught, that they may not anie longer trouble vs and other of thy Churches, as a long time they haue done, &amp; euen nowe doe.<note place="margin">
+                  <hi>Pſal.</hi> 79.10.</note> O let the bloud of thy Saints, which they haue cruelly ſhed, come before thée, to pull vengeance vppon them. Heare the cries of the wome<g ref="char:cmbAbbrStroke">̄</g> whom they haue made widowes, and of the children whom they haue made fatherleſſe. Hearken to the pittifull complaintes of ſuch as they kéepe in priſon for thy truth, and deliuer ſuch as they haue appointed to death. Let
+<pb n="17" facs="tcp:183775:17" rendition="simple:additions"/>
+them bee vppon the ſeas,<note place="margin">
+                  <hi>Exo.</hi> 14.</note> as was <hi>Pharao</hi> and his companie purſuing thy <hi>Iſraell:</hi> let them bee vpon the lande,<note place="margin">
+                  <hi>Jud. cap.</hi> 4.7.8.</note> as <hi>Siſera</hi> and <hi>Ia<g ref="char:EOLhyphen"/>bin,</hi> as the <hi>Madianites, Oreb, Zeb, Zebah,</hi> and <hi>Zalmana,</hi> the enemies of thy people, whom thou deſtroyedſt in the time of the Iudges. O make them like a whéele,<note place="margin">
+                  <hi>Pſal.</hi> 83.13</note> and as the ſtubble before the wind, as the fire burneth the forreſts, ſo perſecute them with thy tempeſts, and make them afraid with thy ſtormes. Fill their faces with ſhame, that they may ſéeke thée (O Lord.) Let them be confounded and troubled for euer. Fight againſt them from heauen,<note place="margin">
+                  <hi>Jud.</hi> 5.20.</note> and render into their boſome ſeuenfolde, al the reproches and iniuries, which they haue done to thy Church, that they may knowe that thou art God, and that it is thy truth, which we haue learned from thy worde, though we haue walked moſt vnworthy of the ſame.</p>
+            <p>Concerning our ſelues, we doe firſt of all praie thée for our ſoueraigne Prince, that notwithſtanding all the trecheries of the aduerſaries, ſhée may ſtil be preſer<g ref="char:EOLhyphen"/>ued, to finiſh hir courſe in thy feare and in peace, euen to the ſaluation of hir ſoule.
+<pb n="18" facs="tcp:183775:18"/>
+We beſéech thee ſo direct her, and ſuch as vnder her highnes gouerne the ſtate, that in theſe euill and moſt dangerous times, they may ſée what is for thine honour and our common ſaftie, accordingly to aduiſe, command, and take order. Giue conſci<g ref="char:EOLhyphen"/>ence to our Miniſters now to ſtand in the gap,<note place="margin">
+                  <hi>Ezek.</hi> 22.30 <hi>Ioel.</hi> 2.17.</note> earneſtly to cry vnto thée to ſpare this thy people, and ſtir them vp, with all fer<g ref="char:EOLhyphen"/>uencie to call vs vnto repentance. Giue all the ſubiects in the land grace, to carry themſelues dutifully and loyallie to her Maieſtie, &amp; the ſtate, to be readie to do ſer<g ref="char:EOLhyphen"/>uice in their perſons, and by whatſoeuer els they haue, that ſo they may be helping againſt the common aduerſaries. And as for our countrimen, or any other that are now imploied, or hereafter to be imploied in theſe ſeruices by ſea or by land for our defence: O Lord ſo paſſe by their ſinnes, that they may not hinder thy worke, in theſe cauſes of ſo much importance. O ſo guide them with thy ſpirite, that repen<g ref="char:EOLhyphen"/>ting of their ſinnes, and being throughlie perſwaded of thy fauour for a better life, they may chéerfullie fight thy battailes, without fearing the faces of the enemies,
+<pb facs="tcp:183775:18" rendition="simple:additions"/>
+Be thou vnto them a piller of a cloude by day and a piller of fire by night,<note place="margin">
+                  <hi>Exo.</hi> 13.21 22.</note> as thou wert to the <hi>Iſraelites</hi> in their comming from <hi>Egypt.</hi> Graunt that each of them may knowe their ſeuerall places, in the ſame to carry themſelues faithfully with<g ref="char:EOLhyphen"/>out enuy, or murmuring. O Lord be with them, and ſo goe foorth with our armies, that one of our fighting men may chaſe a thouſand of theirs,<note place="margin">
+                  <hi>Deut.</hi> 31.3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and two may put ten thouſand to flight. Giue them ſuch good ſucceſſe by ſea and by land, that we may haue new occaſions to praiſe thy name, and to feare thée more than we haue done. Yea, that many other nations hearing of it, may thereupon be mooued to ſéeke after thy trueth. We knowe, it is all one with thée, to ſaue with many, or with no pow<g ref="char:EOLhyphen"/>er.<note place="margin">2. <hi>Cro.</hi> 14.1.</note> There were but thrée hundred of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> with <hi>Gideon,</hi> againſt the huge army of the <hi>Madianites. Aſa</hi> the King of <hi>Iudah,</hi>
+               <note place="margin">
+                  <hi>Judg.</hi> 7.6.</note> did ouercome the hoſt of the <hi>Aethiopians,</hi> being ten hundred thouſand,<note place="margin">2. <hi>Cro.</hi> 1.4</note> when as himſelfe had not ſixe hundred thouſand. Yea, thou without any man, diddeſt in one night deſtroie the mightie armie of the <hi>Aſſirians</hi> in the daies of <hi>Ezekiah.</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 37.36.</note> We
+<pb n="18" facs="tcp:183775:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:183775:19" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:183775:20"/>
+knowe that thine arme is not ſhortened, but that thou art nowe alſo able to helpe vs in like manner, if we had no meanes at all for our defence. And although the forces of our aduerſaries bee come ſome<g ref="char:EOLhyphen"/>thing néere vnto vs, yet as thou diddeſt drowne <hi>Pharao</hi> and the <hi>Egyptians,</hi> when they were not farre off from thy people <hi>Iſraell,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 14.</note> and ouerthrowedſt the <hi>Aethiopi<g ref="char:EOLhyphen"/>ans</hi> and <hi>Aſſirians,</hi>
+               <note place="margin">2. <hi>Cro.</hi> 14.9. <hi>&amp;</hi> 32.1.</note> beeing with their ar<g ref="char:EOLhyphen"/>mies entered into the land of <hi>Canaan:</hi> ſo do we aſſure our ſelues, that thou art ſtill able to preſerue vs, and to deliuer theſe our aduerſaries into our hands, although their powers were more than they are, and néerer vnto vs than yet they be.<note place="margin">
+                  <hi>Pſal.</hi> 79.8.</note> Help vs therefore we pray thée (O God of our ſaluation:) remember not againſt vs, nor againſt our nation the former iniquities, but make haſt, and let thy tender mer<g ref="char:EOLhyphen"/>cies preuent vs. Suffer not thine ene<g ref="char:EOLhyphen"/>mies to raile vpon thy truth and thy chil<g ref="char:EOLhyphen"/>dren anie longer. Let it appeare that thou onelie art God, and that the Idols whome they haue ſerued, bee vnable to helpe them. Giue not ouer thy faithfull ſeruauntes of this nation, and of other
+<pb facs="tcp:183775:20" rendition="simple:additions"/>
+Countries fledde hither for thy truthes ſake, into the handes of theſe miſerable men,<note place="margin">
+                  <hi>Pſa.</hi> 79.2.3</note> to ſpill their bloud in the ſtréets like water, to giue their bodies to the beaſtes of the field, and their fleſh to the foules of heauen. Thou that promiſeſt to ſpare <hi>Sodome,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 18.</note> if there might haue béene tenne righteous found there, ſpare this Nation we pray thée, where there be manie times ten, that vnfainedlie deſire to ſerue thée. Thou that pitiedſt <hi>Niniuie</hi> hauing in it ſixe ſcore thouſand young children,<note place="margin">
+                  <hi>Jonah.</hi> 4.</note> pittie wee beſéeche thée this populous Nation, and giue it not ouer to bee laide waſt and deſolate. O let not the Churches, where thy faithfull ſeruauntes haue aſ<g ref="char:EOLhyphen"/>ſembled to worſhippe thée, by praier, fa<g ref="char:EOLhyphen"/>ſting, preaching, and the vſe of thy Sa<g ref="char:EOLhyphen"/>cramentes, bee turned into cages of vn<g ref="char:EOLhyphen"/>cleane beaſtes, and ſynagogues of Sa<g ref="char:EOLhyphen"/>than, to haue the maſſe and other dam<g ref="char:EOLhyphen"/>nable Idolatries in them againe. For the glorie of thy name, turne theſe great euils farre from vs, although we be moſt worthie to taſt of them all. If thou wilt not be intreated to ſpare this ſinful natio<g ref="char:cmbAbbrStroke">̄</g>, which hath ſo much abuſed thy patience,
+<pb n="22" facs="tcp:183775:21"/>
+and ſo often and manie waies prouoked thée to wrath: O correct vs yet thy ſelfe, by ſome other of thy rods, that we may be brought vnto repentance, but leaue vs not as a praie to theſe merciles &amp; bloody men. Whatſoeuer ſhal fall out, grant (we beſéech thée) that we may take al thy cha<g ref="char:EOLhyphen"/>ſtiſments paciently, acknowledge thy iu<g ref="char:EOLhyphen"/>ſtice therein, and neuer depart from thy trueth, but that wee may holde on in the profeſſion of the ſame euen to y<hi rend="sup">e</hi> ende not<g ref="char:EOLhyphen"/>withſtanding all the tormentes wée may be brought vnto. Comforting our ſelues alwaies, with the féeling of thy loue in Chriſt, &amp; with looking for his bleſſed com<g ref="char:EOLhyphen"/>ming to iudgement,<note place="margin">
+                  <hi>Phil.</hi> 3.21.</note> when he ſhall change our vile bodies, and make them like his owne glorious body, by his mightie pow<g ref="char:EOLhyphen"/>er, whereby he is able to doe all things. O Lord heare vs thus calling vpon thée, and for euerie other grace, for thy Church in the world, for this land, for all ſortes and ſtates in the ſame, and for all other for whome we ought to praie. Receiue alſo (we beſeech thée) our moſt humble thanks for all thy former benefites vppon our ſelues, and vpon this nation, for thy Goſ<g ref="char:EOLhyphen"/>pell,
+<pb n="23" facs="tcp:183775:21" rendition="simple:additions"/>
+the ſafetie and preſeruation of our Quéene hetherto, the diſcouerie and ouer<g ref="char:EOLhyphen"/>throw of treaſons, and the doers of them, thy patience to our realm, our peace thus long, and plentie of outward bleſſings, as alſo for the good ſucceſſe againſt our e<g ref="char:EOLhyphen"/>nemies giuen vnto vs, by ſea or by land, of late or before times. O wée doe moſt humblie praiſe thy holie name, praieng thée to goe forward to doe vs good ſtil, and ſo we cal vpon thée as we are taught.</p>
+            <q>Our Father which art in, &amp;c.</q>
+         </div>
+         <div type="meditations">
+            <pb n="24" facs="tcp:183775:22"/>
+            <head>MEDITATIONS concerning thankſgiuing to <hi>Al<g ref="char:EOLhyphen"/>mighty God, for deliuering England</hi> from the crueltie of the Spaniards, <hi>and for their meruailous</hi> con<g ref="char:EOLhyphen"/>fuſion and ouerthrow. 1588.</head>
+            <p>
+               <note place="margin">
+                  <hi>Pſal.</hi> 50.15</note>
+               <seg rend="decorInit">O</seg> Lorde moſt mercifull fa<g ref="char:EOLhyphen"/>ther, thou dooeſt com<g ref="char:EOLhyphen"/>maunde vs to call vppon thée in the time of our trouble, thou promiſeſt to heare and to deliuer vs, requiring that we ſhould then glorifie thée, and offer thée ſacrifice of praiſe. How true thou art in this thy promiſe, as wée haue manie examples in the Scriptures, ſo we of this land ought to know it in our owne experience. For wee were in great trouble and not without feare, when the <hi>Spaniards,</hi> a bloudie and cruell nation, in their rage came forth againſt vs, with a purpoſe ſo to roote vs out, that wee ſhould no more be a people. And indéede there was iuſt cauſe, why we ſhould haue béen
+<pb n="25" facs="tcp:183775:22" rendition="simple:additions"/>
+much aſtonied. For, if we looke to our ſins, and the abhominations of our whole na<g ref="char:EOLhyphen"/>tion, what coulde wee elſe in thy iuſtice haue looked for,<note place="margin">
+                  <hi>Hoſ.</hi> 9.7.</note> but that the daie of viſita<g ref="char:EOLhyphen"/>on, and the time of recompence was come, wherein thy purpoſe was, to haue done execution vpon vs for our tranſgreſ<g ref="char:EOLhyphen"/>ſions? And, if we looke vpon our enemies, they were manie in number, and their forces great both by ſea and lande, ſo as they thought themſelues, as it were ſure of the victorie, as if they had béene able to haue ſwallowed vs vp quick, and to haue runne ouer vs, as the proude and ſwel<g ref="char:EOLhyphen"/>ling waters ouerflow the valleies of the fielde. In that our perplexitie, we did now and then ſigh vnto thée for helpe, we pow<g ref="char:EOLhyphen"/>red forth praiers, though in great weake<g ref="char:EOLhyphen"/>neſſe. Thy faithfull ſeruaunts in the mi<g ref="char:EOLhyphen"/>niſterie, were more earneſt with thée in our behalfe, humbling themſelues in fa<g ref="char:EOLhyphen"/>ſting, and calling the people thereunto, euen as it became them in a matter of ſo great waight. So as the cries of them were manie, which ſued vnto thy maieſtie to ſpare this Nation, and not to giue ouer this part of thine in<g ref="char:EOLhyphen"/>heritance,
+<pb n="26" facs="tcp:183775:23"/>
+into the handes of the wicked. And now haſt thou moſt graciouſly fulfil<g ref="char:EOLhyphen"/>led thy promiſe. For whatſoeuer want was in our praiers, yet haſt y<hi rend="sup">u</hi> heard vs in that for which we cried. For, notwithſta<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ding the enimie approched verie néere, ſo as we might haue looked for an attempt of la<g ref="char:cmbAbbrStroke">̄</g>ding in our coaſt: yet ſo miraculouſly and in diuerſe ſorts, diddeſt thou ſet thy ſelfe againſt them, bleſſing our meanes, &amp; without meanes purſuing the<g ref="char:cmbAbbrStroke">̄</g> with thine owne hand, y<hi rend="sup">t</hi> their ſnare is broken, &amp; wée be eſcaped,<note place="margin">
+                  <hi>Pſal.</hi> 124</note> euen as y<hi rend="sup">e</hi> bird out of the grin of the fouler. The ſword, the ſea, &amp; famine, haue deuoured a great parte of them, o<g ref="char:EOLhyphen"/>thers he returned with ſuch diſhonor, as became them that would not learne to ho<g ref="char:EOLhyphen"/>nor thée. Manie of their fathers haue thus loſt their children, many childre<g ref="char:cmbAbbrStroke">̄</g> are made fatherles, &amp; manie of their wiues are be<g ref="char:EOLhyphen"/>come widowes. Thou haſt in thy iuſtice rendred into their boſome, a iuſt reward of their cruelty in other cuntries, and haſt ſerued them, as they meant to do to vs thy people. And now (O Lord) was this for our worthines, or becauſe wée had deſer<g ref="char:EOLhyphen"/>ued any ſuch thing at thy hands? No ve<g ref="char:EOLhyphen"/>rily,
+<pb n="27" facs="tcp:183775:23" rendition="simple:additions"/>
+for we be a moſt ſinful people, al ſorts &amp; ſtates had corrupted their waies, &amp; hai<g ref="char:EOLhyphen"/>nouſly treſpaſſed. But for their vnworthi<g ref="char:EOLhyphen"/>nes didſt thou deny them y<hi rend="sup">e</hi> conqueſt ouer vs, &amp; for their innumerable abhominati<g ref="char:EOLhyphen"/>ons, haſt thou brought vpon them this de<g ref="char:EOLhyphen"/>ſerued deſtruction. For the glorie of thine own name, mainteining thine own cauſe, in defending ſuch as profeſſed thy true re<g ref="char:EOLhyphen"/>ligion, although in that behalfe we are far ſhort of that we ought to be. Whatſoeuer we be, thou haſt performed thy promiſe, hearing vs in our feare, &amp; doing more for vs, than we could almoſt haue hoped for. And now it remaineth, y<hi rend="sup">t</hi> according to thy commandement we yéeld vnto thy Maie<g ref="char:EOLhyphen"/>ſty, the dutie of continual thanks &amp; obedi<g ref="char:EOLhyphen"/>ence, which thou calleſt for at y<hi rend="sup">e</hi> hands of ſuch, whom thou deliuereſt ſo wo<g ref="char:cmbAbbrStroke">̄</g>derfully as we haue bin deliuered, O that we could therfore confes before thée, this thy louing kindnes, &amp; ſpeake of al theſe thy wo<g ref="char:cmbAbbrStroke">̄</g>derful works before the ſons of men, as it doeth become vs. The leaſt benefite that we re<g ref="char:EOLhyphen"/>ceiue from thée, deſerueth infinite thanks from vs. For, what are wée of <hi>England,</hi> that thou ſhouldeſt conſider vs, or who
+<pb n="28" facs="tcp:183775:24"/>
+were our forefathers, that thou ſhouldeſt regard vs? Surely we are excéedingly ſin<g ref="char:EOLhyphen"/>full,<note place="margin">
+                  <hi>Gen.</hi> 32.10.</note> and deſcended from ſuch as had high<g ref="char:EOLhyphen"/>lie prouoked thy diſpleaſure. We are not worthie of the leaſt of thy mercies, yea, it is thy mercie that long ago we were not vtterlie confounded.<note place="margin">
+                  <hi>Lame.</hi> 3.22.</note> O then ſuch rare and ſingular mercies as this, wherein mira<g ref="char:EOLhyphen"/>culouſlie thou haſt ſhewed thy ſelf for our ſafetie, and for the confuſion of our aduer<g ref="char:EOLhyphen"/>ſaries, how much ſhould they moue vs to magnify thy name, and to ſound forth con<g ref="char:EOLhyphen"/>tinuallie thy euerlaſting praiſes, which haſt vouchſafed ſuch fauour to thoſe that be ſo vnworthie? For the greater the vn<g ref="char:EOLhyphen"/>worthineſſe of the Nation is, whereunto thou haſt done this great good, the more worthie art thou to be praiſed for euer. If ſuch a benefite as this had béene beſtowed vpon the Churches of <hi>France, Geneua, Germanie,</hi> or of the low Countries, great had béene our ſinne, if wee had not offered to thée a bountifull ſacrifice of the calues of our lippes,<note place="margin">
+                  <hi>Hoſ,</hi> 14.2</note> for ſuch a mercie ſhewed vn<g ref="char:EOLhyphen"/>to them. For as their miſeries ought to bée to vs as our owne, and therefore wée ſhoulde wéepe with them when they<note place="margin">
+                  <hi>Rom.</hi> 12.15.</note>
+               <pb n="29" facs="tcp:183775:24" rendition="simple:additions"/>
+wéepe. So their deliuerance ſhoulde haue béene, as if we our ſelues had béene deli<g ref="char:EOLhyphen"/>uered, in reſpect whereof, wee ouhht to haue reioiced with them in their ioy. The heauenlie ſpirites are carried with ſuch a zeale to thine honour,<note place="margin">
+                  <hi>Apoc.</hi> 19.1.2.3.</note> and inflamed with ſuch loue to that part of thy Church which is héere vpon the earth, that with a loud voice, they ſing praiſes to thée, for iudging the whoore of <hi>Roome,</hi> and reuen<g ref="char:EOLhyphen"/>ging the bloud of thy Saintes, although ſhée coulde not haue hurt them, or in anie ſort haue diminiſhed their glorie. Howe much more therefore by their example, are wée bounde to praiſe thée, becauſe in this our deliueraunce, and confuſion of our enemies, thou haſt not onelie ſhewed thy power, mercie, and iuſtice, ſo getting thy ſelfe a glorious name, in defending the vnworthie profeſſours of thy truth, and the ſtraungers here baniſhed for the ſame? But alſo by this meanes wée our ſelues be preſerued from great miſeries. and all the faithfull ſubiectes of the lande inioie their ſoueraigne Prince, to their ſingular comforte, and vnder hir grati<g ref="char:EOLhyphen"/>ous gouernement, we haue the vſe of the
+<pb n="30" facs="tcp:183775:25"/>
+publike exerciſes of thy word and Sacra<g ref="char:EOLhyphen"/>ments, things that ſhuld be vnto vs more déere than our owne liues: Moreouer, we may each of vs ſit peaceablie vnder our owne vines and figge trées, inioieng our wiues, our children, our friends, our liber<g ref="char:EOLhyphen"/>tie, &amp; many other bleſſinges yéelded to vs, in this moſt fruitfull and pleaſant lande: If we do compare theſe benefites, with the deſolation brought vpon our enemies, and with the calamities that wee ſhoulde haue taſted of in our ſoules and bodies, if they had preuailed: (according as wee haue examples of their beaſtlie crueltie in the <hi>Indians,</hi> and others whome treche<g ref="char:EOLhyphen"/>rouſlie they haue brought into their bon<g ref="char:EOLhyphen"/>dage.) O then our hearts muſt néeds be more hard than flint, and wee our ſelues altogether without féeling, except the con<g ref="char:EOLhyphen"/>ſideration of theſe things, fill our ſpirites with ioy, our mouths with laughter, and ſtirre vs vp to ſing new ſongs of praiſes vnto thée.</p>
+            <p>
+               <note place="margin">
+                  <hi>Exo.</hi> 15.</note>
+               <hi>Moſes, Miriam,</hi> and the children of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> hauing paſſed through the red ſea, and ſéene the deſtruction of their enimies, preſentlie doe acknowledge thy mercie,
+<pb facs="tcp:183775:25" rendition="simple:additions"/>
+and ſing to the honor of thy name.</p>
+            <p>
+               <hi>Deborah</hi> and <hi>Barach</hi> doe the like,<note place="margin">
+                  <hi>Iudg.</hi> 5</note> the ſelfe ſame day that thou gaueſt thy people that notable victorie ouer <hi>Siſera.</hi>
+            </p>
+            <p>
+               <hi>Iehoſhaphat</hi> ſéeing the confuſion,<note place="margin">2. <hi>Cro.</hi> 20.26</note> which thou broughteſt vpon the <hi>Moabites,</hi> the <hi>Ammonites,</hi> &amp; them of mount <hi>Seir,</hi> whom before he feared, after that hee &amp; his com<g ref="char:EOLhyphen"/>panie had purſued them &amp; the ſpoile three daies, the fourth daie they giue thankes, with ſuch feruencie and zeale, that the place it ſelfe hath a name of their bleſ<g ref="char:EOLhyphen"/>ſing God there, as it may appeare by the hiſtorie.</p>
+            <p>
+               <hi>Heſter, Mordecay,</hi> &amp; other of the Iewes, in token of thankfulneſſe and ioy,<note place="margin">
+                  <hi>Heb.</hi> 9.</note> kéepe a feaſt the next day, after the kings decrée was fruſtrated, which <hi>Haman</hi> had procu<g ref="char:EOLhyphen"/>red for their deſtruction. Yea, they take order to haue that their deliuerance ſo<g ref="char:EOLhyphen"/>lemnlie remembred euerie yéere.</p>
+            <p>Did their deliuerance from mighty and cruel enimies prouoke them to this? Did the eſcaping of preſent daungers, drawe fro<g ref="char:cmbAbbrStroke">̄</g> them theſe praiſes of thy name? Did the ouerthrow of ſuch as roſe vp againſt them, moue them thus to honour thée? O
+<pb n="32" facs="tcp:183775:26"/>
+then wee haue cauſe to doe the like. Our enemies which thus thought in their hearts: Wee will purſue, wee will diuide the ſpoile, our luſt ſhall be ſatiſfied vppon them, we will draw out our ſwordes, our hands ſhall deſtroie them (according as it is recorded that <hi>Pharao</hi> ſpake in his pride:<note place="margin">
+                  <hi>Exo.</hi> 15.9.</note>) euen theſe with him are ſunke in the déepe ſeas like lead.<note place="margin">
+                  <hi>Iudg.</hi> 4.21.</note> 
+               <hi>Iael</hi> a woman hath ſtriken a naile into <hi>Siſeraes</hi> head,<note place="margin">
+                  <hi>Iudg.</hi> 5.28.29.</note> e<g ref="char:EOLhyphen"/>uen then when his mother and hir wiſe Ladies perſuaded themſelues that he had gotten the victorie, and was diuiding the ſpoiles. The ſubiects of thy ſeruant <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> (a woman) by thy good bleſſing, haue ſtriken a terror into the harts of the mightie, yea, partlie by their meanes, as thine inſtruments, &amp; partlie by thine own immediate power (y<hi rend="sup">e</hi> ſtars in their courſe, &amp; the ſeas in their order fighting againſt them) they haue then fearefully periſhed,<note place="margin">
+                  <hi>Iudg.</hi> 5.20.</note> when there was not onlie an aſſured per<g ref="char:EOLhyphen"/>ſuaſion in themſelues, not to be ouercome (as may appeare, in that they called their Nauie inuincible) but alſo a certaine ex<g ref="char:EOLhyphen"/>pectation of the victorie, yea, reportes gi<g ref="char:EOLhyphen"/>uen &amp; written, as if they had preuailed.</p>
+            <p>
+               <pb facs="tcp:183775:26" rendition="simple:additions"/>Thou turnedſt the ſwordes of ſuch as came foorth on their ſide as they thought,<note place="margin">Jn one of their gallies.</note> againſt themſelues:<note place="margin">The ſhip fi<g ref="char:EOLhyphen"/>red by one of their Gon<g ref="char:EOLhyphen"/>ners.</note> And the fire which was kindled, to ſend their ſhotte againſt vs, was a mean of deliuering one of their ſhips, and ſome of their company into our hands: euen as thou armedſt <hi>Moab,</hi>
+               <note place="margin">2. <hi>Cro.</hi> 20.22 23.</note> 
+               <hi>Am<g ref="char:EOLhyphen"/>mon,</hi> and them of mount <hi>Seir</hi> one againſt another in <hi>Iehoſhaphats</hi> time.</p>
+            <p>The curſed agréement ſo many yéeres agoe at the councell of <hi>Trent,</hi> for rooting out the profeſſors of thy trueth, (whereof this attempt of the <hi>Spaniardes</hi> may ſéeme to be intended as an execution in reſpect of vs) is now turned to the deſtruction of theſe that fauoured it: ſo as we may not vnfitly ſay, that <hi>Haman</hi> and his be han<g ref="char:EOLhyphen"/>ged vpon the gallows, which he cauſed to be ſet vp for <hi>Mordecay</hi> the <hi>Iew.</hi> That is, thou haſt rewarded theſe proud men, that which they thought to haue done to o<g ref="char:EOLhyphen"/>thers. Thou onely indéede we muſt ſay. For notwithſtanding, thou wenteſt forth with our ſhips, proſpering them ſo long as they incountred, wherein ſenſiblie it appeared to bee thy worke, in the great loſſes of the aduerſaries both of men and Shippes, and ſo little of ours, as it may
+<pb n="34" facs="tcp:183775:27"/>
+worthily be reckoned among thy meruei<g ref="char:EOLhyphen"/>lous workes: yet ſéeing ſo great wrackes followed them, when we had left them, how els can we thinke it but thine owne hand? Therefore, not withſtanding wée haue much cauſe to reioice in the wiſe care, foreſight, &amp; prouiſion of our Prince, the honourable counſell and the ſtate: as alſo in the faithfulnes of our countrimen, ſo willingly &amp; couragiouſly offring them<g ref="char:EOLhyphen"/>ſelues, to ſpend their goods, and to hazard their liues by ſea and land in this caſe:<note place="margin">
+                  <hi>Jude.</hi> 5.2.</note> ſo as we curſe ſuch, euen by the ſentence of thine owne Angell, which were not wil<g ref="char:EOLhyphen"/>ling to helpe,<note place="margin">
+                  <hi>Chap.</hi> 5.23.</note> as it is in the Iudges: Yet (O Lord our God) foraſmuch as the one were giftes of thine, giuen to ſuch as go<g ref="char:EOLhyphen"/>uerne vs, and the other were but thy in<g ref="char:EOLhyphen"/>ſtruments to worke by: To thee, yea to thee alone, O Father, Sonne, and holie ſpirit, three perſons and one God, do we aſcribe all the glorie, honour, praiſe, and thankes for euer. For thou onelie haſt done this,<note place="margin">
+                  <hi>Exod.</hi> 15.2.</note> thou indeede haſt ſhewed thy ſelfe to be a man of war, that ſaluation is from thee, and that there is no truſt in horſes and chariots.<note place="margin">
+                  <hi>Pro.</hi> 21.31.</note> For, the horſe and the rider haſt thou ouerthrowen, the <hi>Spani<g ref="char:EOLhyphen"/>ards</hi>
+               <pb facs="tcp:183775:27" rendition="simple:additions"/>
+ſhips haſt thou caſt into the ſeas,<note place="margin">
+                  <hi>Exo.</hi> 15.21.</note> his choſen captaines alſo bee drowned in the ſea, the depthes haue couered them,<note place="margin">
+                  <hi>Exo.</hi> 15.6.7.</note> they bée ſunke to the bottome as a ſtone. Thy right ha<g ref="char:cmbAbbrStroke">̄</g>d (O Lord) is glorious in power, thy right hand (O Lord) hath bruſed the enimie. And in thy great glorie, thou haſt ouerthrowne them, that roſe vp againſt thée, thou ſenteſt foorth thy wrath, which conſumed them as ſtubble. Who can ex<g ref="char:EOLhyphen"/>preſſe theſe thy noble actes? who can ſhew foorth all thy praiſe?<note place="margin">
+                  <hi>Pſal.</hi> 106.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2.</note> If we had the tongs of al men and Angels, we could not ſuffi<g ref="char:EOLhyphen"/>ciently doe it: ſuch praiſes as by thy grace we be able to offer, we pray thee in Chriſt to accept. O our ſoules praiſe ye y<hi rend="sup">e</hi> Lord, &amp; whatſoeuer is within vs praiſe yee his holie name, &amp; ſée that ye neuer forget this his benefit, praiſe the Lord ye his angels,<note place="margin">
+                  <hi>Pſal.</hi> 103.12.</note> that excel in ſtrength, that doe his co<g ref="char:cmbAbbrStroke">̄</g>man<g ref="char:EOLhyphen"/>dement, in obeieng the voice of his word. Praiſe the Lord all ye his hoſtes,<note place="margin">
+                  <hi>Pſal.</hi> 103.20.22.23</note> yée his ſeruants that doe his pleaſure, praiſe the Lord all ye his works in all places of his dominion.</p>
+            <p>Yea, we beſéech thée, that not onely we, but the whole land alſo may giue thy ma<g ref="char:EOLhyphen"/>ieſtie the whole glory of this, ſo as it may
+<pb n="36" facs="tcp:183775:28"/>
+neuer come into any of our mindes, to thinke that by our worthineſſe, or by our own ſtrength this is come to paſſe. Grant that it be not onelie once euerie yéere, publikely and ſollemnlie remembred, af<g ref="char:EOLhyphen"/>ter the worthie example, of that which was appointed to be done of the Iewes, for their deliuerance from the crueltie of <hi>Haman:</hi>
+               <note place="margin">
+                  <hi>Heſt.</hi> 9.</note> But that alſo daylie and con<g ref="char:EOLhyphen"/>tinuallie, wee may ſtirre vp our ſelues to thankfulneſſe, and to ſpeake of it to our children, and they to their childrens chil<g ref="char:EOLhyphen"/>dren, that ſo the memory of this thy glori<g ref="char:EOLhyphen"/>ous fact, may be continued from genera<g ref="char:EOLhyphen"/>tion to generation euen for euer. But aboue all thinges be herein mercifull vn<g ref="char:EOLhyphen"/>to vs, that this marueilous benefite pow<g ref="char:EOLhyphen"/>red vpon this nation, added to the reſt of thy woonderful mercies towards vs, may bée an occaſion to lead all ſorts and ſtates to true repentance, and to a through re<g ref="char:EOLhyphen"/>formation of whatſoeuer is amiſſe: leaſt if we hold on in our euils, thou make a chaunge, and giue our enimies cauſe to reioyce ouer vs, as we do now ouer them. For, notwithſtanding they bee maruei<g ref="char:EOLhyphen"/>louſlie weakened, yet ſuch is thy power, that thou art able to arme wounded and
+<pb facs="tcp:183775:28" rendition="simple:additions"/>
+famiſhed men to our deſtruction,<note place="margin">
+                  <hi>Iere.</hi> 37.10</note> if wee continue to ſinne againſt thee, as thou didſt threaten the Iewes with the Chal<g ref="char:EOLhyphen"/>deans in <hi>Ieremies</hi> time. We were deliue<g ref="char:EOLhyphen"/>red that we ſhould ſinne no more,<note place="margin">
+                  <hi>Iohn.</hi> 5.14.</note> as our Lord Ieſus ſaide to the man whom hee had made whole. Our faithfull miniſters, when they were moſt earneſt in ſuing for vs with faſting and praiers, was it vpon any other condition, but that being ſpared longer, wee ſhould yéelde better fruits, according as the dreſſer of the vin<g ref="char:EOLhyphen"/>yard intreateth for the figtrée,<note place="margin">
+                  <hi>Luk.</hi> 13.7.8.</note> which the owner co<g ref="char:cmbAbbrStroke">̄</g>manded to cut vp? Now if ſpée<g ref="char:EOLhyphen"/>dilie euen this preſent yéere this bee not done by vs, who ſhall hereafter intreat a<g ref="char:EOLhyphen"/>ny more, or what is he that crieng for vs is like to be heard? Nay, wee may feare that thou wilt ſay to our moſt faithfull prophets,<note place="margin">
+                  <hi>Iere.</hi> 7.16.</note> as ſometime thou ſaideſt to <hi>Ie<g ref="char:EOLhyphen"/>remie:</hi> Praie no more for this people, nei<g ref="char:EOLhyphen"/>ther lift vp crie or praier for them, nei<g ref="char:EOLhyphen"/>ther intreat me, for I will not heare thée. Or as in another place thou ſayedſt: Though <hi>Moſes</hi> &amp; <hi>Samuel</hi> ſtood before me, yet mine affection could not bee toward this people. Caſt them out of my ſight,<note place="margin">
+                  <hi>Iere.</hi> 15.1.</note> &amp; let them depart, ſuch as are appointed to
+<pb n="48" facs="tcp:183775:29"/>
+death to death, and ſuch as are for the ſword to the ſword, and ſuch as are for the famine to y<hi rend="sup">e</hi> famine, &amp; ſuch as are for cap<g ref="char:EOLhyphen"/>tiuitie to captiuity. And I wil appoint o<g ref="char:EOLhyphen"/>uer them foure kinds, ſaith the Lord: the ſword to ſlay, the dogs to teare in peeces, the foules of the heauen, and the beaſts of the earth to deuoure and deſtroy. Or as it is in <hi>Ezekiel:</hi>
+               <note place="margin">
+                  <hi>Ezek.</hi> 14.24</note> though theſe thrée me<g ref="char:cmbAbbrStroke">̄</g>, <hi>No<g ref="char:EOLhyphen"/>ah, Daniel,</hi> &amp; <hi>Iob,</hi> were among them, they ſhold deliuer but their own ſoules. For al<g ref="char:EOLhyphen"/>though by thy ſingular goodnes we haue gotten this victorie, yet are we not paſt al danger, as if careleſly we might doe what we liſt. Nay we ſée, that <hi>Aſa</hi> the king of <hi>Iudah</hi> triumphing moſt gloriouſly, ouer the ten hundred thouſand <hi>Ethiopians</hi> that came foorth againſt him, is notwithſtan<g ref="char:EOLhyphen"/>ding met with by the Prophete <hi>Azariah,</hi> and by him certified from y<hi rend="sup">e</hi> Lord, that he might no otherwiſe looke for the continu<g ref="char:EOLhyphen"/>ance of his fauor, to himſelfe, &amp; to his peo<g ref="char:EOLhyphen"/>ple, but as they ſhould continue to do their duetie, and therfore ſaith vnto them after this maner.<note place="margin">2. <hi>Cr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 15.2.</note> O <hi>Aſa</hi> and all <hi>Iudah</hi> and <hi>Ben<g ref="char:EOLhyphen"/>iamin</hi> heare ye me. The Lord is with you while you be with him, &amp; if you ſéeke him,
+<pb facs="tcp:183775:29" rendition="simple:additions"/>
+hée will be found of you, but if you forſake him, he will forſake you. The ſame peo<g ref="char:EOLhyphen"/>ple of <hi>Iſrael,</hi> for whom thou wroughteſt ſo many great works in <hi>Egypt,</hi> and after leaddeſt through the red ſea, deſtroying their enimies which aſſaied to follow the<g ref="char:cmbAbbrStroke">̄</g>, were afterward fearfully deſtroied in y<hi rend="sup">e</hi> wildernes for their ſins.<note place="margin">
+                  <hi>Exo.</hi> 12.37 <hi>Nu.</hi> 14.30</note> So as of ſix hun<g ref="char:EOLhyphen"/>dred thouſand that were numbred, onely two perſons <hi>Caleb</hi> &amp; <hi>Ioſua</hi> entered into the promiſed <hi>Canaan.</hi> Thy ſeruant <hi>Iude</hi> putteth vs in remembra<g ref="char:cmbAbbrStroke">̄</g>ce of this in theſe words: <hi>For aſmuch</hi> (ſaith hee) <hi>as ye once knew this,</hi>
+               <note place="margin">
+                  <hi>Verſ.</hi> 5.</note> 
+               <hi>how that the Lord after that he had deliuered the people out of Egypt, deſtroied them that beleeued not.</hi> And the ſame nation of the Iewes, though often<g ref="char:EOLhyphen"/>times thou diddeſt marueilouſly fight for them and deliuer them, ſo as among the heathen it might be iuſtly ſaid: God hath done great things for them, &amp; they on the o<g ref="char:EOLhyphen"/>ther ſide had iuſt cauſe to anſwer them, as with an eccho: He hath done great things for vs, whereof we reioice, as it is in the Pſalme. Euen theſe notwithſtanding whe<g ref="char:cmbAbbrStroke">̄</g> they neglected their dutie,<note place="margin">
+                  <hi>Pſal.</hi> 126 2.3.</note> were moſt ſharply puniſhed, and giuen ouer as a pray vnto their enimies, as may appeare
+<pb n="40" facs="tcp:183775:30"/>
+in the hiſtory of their Iudges and Kings. And at length when nothing woulde re<g ref="char:EOLhyphen"/>claime them, but that they continued in their diſobedience, mocking and il intrea<g ref="char:EOLhyphen"/>ting the faithfull prophetes which called them to repentance: then thou brough<g ref="char:EOLhyphen"/>teſt vpon them y<hi rend="sup">e</hi> 
+               <hi>Chaldeans,</hi> who waſted their land, tooke their chiefe city euen <hi>Hie<g ref="char:EOLhyphen"/>ruſalem</hi> and their king, put out his eies, ſlue his children &amp; nobles before his face,<note place="margin">
+                  <hi>Ier.</hi> 39.6.7.</note> and diſhonorablie ledde him captiue vnto <hi>Babylon,</hi> leauing that fruitful and popu<g ref="char:EOLhyphen"/>lous countrie, as it were a deſolate &amp; for<g ref="char:EOLhyphen"/>ſaken wildernes, and bringing ſcorne, re<g ref="char:EOLhyphen"/>proch, confuſion &amp; ſhame vpon that citie &amp; nation, which ſometimes were (as a Quéen aboue al others) admired for their proſperitie, as if they had bene the onelie praiſe of the world.</p>
+            <p>
+               <note place="margin">1. <hi>Cor.</hi> 10.6.7.8.</note>Their example doſt thou ſet before our eies, as a glaſſe to looke into, whereby we may ſée, what remaineth for ſuch people, as be like them in thy bleſſings, and not vnlike them in their ſinnes. We there<g ref="char:EOLhyphen"/>fore of this nation, whom thou haſt thus marueilouſlie preſerued, and defended in peace, proſperitie, plentie, and with the vſe of thy holie religion, vnder the reigne
+<pb facs="tcp:183775:30" rendition="simple:additions"/>
+of our ſouereigne prince now theſe whole thirtie yeares, and for whom of late thou haſt done theſe great thinges: what elſe may we looke for but the like deſtruction with the Iewes, except with all ſpéed wée doe turne to thée, and reforme our ſelues according to thy woorde? Therefore (O Lord our God) we do moſt humbly craue of thée, pardon for all our ſinnes paſt, com<g ref="char:EOLhyphen"/>mitted by vs, &amp; by our whole land, either before this our deliuerance, or ſince wee were deliuered: beſéeching thée in y<hi rend="sup">e</hi> blood and obedience of Chriſt Ieſus and for the honor of thy name, not to bring vpon vs the deſtruction, which for our vnthanke<g ref="char:EOLhyphen"/>fulnes for this thy great mercie, and for other our tranſgreſſions wee haue moſt iuſtlie deſerued. And graunt, that for all the time to come, all ſortes and ſtates, ci<g ref="char:EOLhyphen"/>uill and eccleſiaſticall, from the higheſt to the loweſt may be carefull in all thinges to ſéeke thy will, and to haue the ſame o<g ref="char:EOLhyphen"/>beied, as wel in matters for the Church, as the common-weale, and each of them for the direction of their ſeueral families, and particular conuerſations. That they may all ioyne together in their callinges as one man, for the reformation of the
+<pb n="42" facs="tcp:183775:31"/>
+miniſterie, that ſo the preaching of the Goſpell may bée eſtabliſhed, and ſetled in all the quarters of the lande, whereby all the ſubiects may be ſubdued vnto thée, and taught holie obedience to her Maie<g ref="char:EOLhyphen"/>ieſtie, and the reſt that vnder her gouern the ſtate. That godlineſſe and godlie men, may more and more bee cheriſhed and maintained, and idolatrie, papiſtrie, blaſphemie, prophanation of the holie Saboths, and all other wickedneſſe and wicked men, may bee puniſhed and ſup<g ref="char:EOLhyphen"/>preſſed. O teach vs to knowe and beléeue, that in theſe thinges ſtandeth the bleſſed<g ref="char:EOLhyphen"/>nes &amp; ſafetie of our ſtate, and realme, that that nation is onely happy,<note place="margin">
+                  <hi>Pſa.</hi> 144.15</note> whoſe God is the Lord, and that thou art a God and ſa<g ref="char:EOLhyphen"/>uior to ſuch onlie as walke in thy waies, and with all their hearts, ſéeke to doe thy co<g ref="char:cmbAbbrStroke">̄</g>mandements. If this courſe be thought vpon, &amp; yéelded vnto by vs, then we may aſſure our ſelues of thy protection, for e<g ref="char:EOLhyphen"/>uer: Then we ſhall ſtill to our comfort in<g ref="char:EOLhyphen"/>ioy our gratious Prince, and her highnes the comfort of the dutifull ſeruice, and o<g ref="char:EOLhyphen"/>bedience of vs her ſubiectes. Our wiſe counſailours ſhall bee able to giue aduiſe for our good, &amp; our worthy valia<g ref="char:cmbAbbrStroke">̄</g>t countri<g ref="char:EOLhyphen"/>men
+<pb facs="tcp:183775:31" rendition="simple:additions"/>
+with honour to execute that, which is appointed for our ſafetie. Thy Goſpell ſhal ſhine among vs yet in more excellent beautie, we ſhall haue our peace and our plentie ſtill, wée ſhall proſper in our af<g ref="char:EOLhyphen"/>faires by ſea and by land, wée ſhall ſée our deſire vpon our bloodie enimies,<note place="margin">
+                  <hi>Deut.</hi> 26.7.</note> they ſhall come foorth againſt vs one way, and ſhal flie ſeuen waies.<note place="margin">
+                  <hi>Leuit.</hi> 26.8.</note> One of vs ſhal chaſe an hundred of them, and an hundred of vs, ſhall put ten thouſand to flight.<note place="margin">
+                  <hi>Pſal.</hi> 144.12.13</note> The voice of mirth and gladneſſe ſhal be heard in our ſtréetes, our ſonnes ſhall bée as plants growing vp in their youth, and our daughters as the corner ſtones, grauen after the ſimilitude of a pallace. Our cor<g ref="char:EOLhyphen"/>ners ſhall be full and abounding with di<g ref="char:EOLhyphen"/>uers ſortes, our ſhéepe ſhall bring foorth thouſandes, euen ten thouſandes in our ſtréetes. Our oxen ſhal be ſtrong to labor, there ſhall be no inuaſion or going out, nor crieng in our Cities: the murrain of beaſts and the peſtilence deuouring men ſhall not come néere vs. Thus ſhall wee then bee bleſſed,<note place="margin">
+                  <hi>Pſa.</hi> 144.15</note> for ſo is the people bleſ<g ref="char:EOLhyphen"/>ſed, whoſe God is y<hi rend="sup">e</hi> Lord. O Lord let our nation be thus bleſſed for euer, we do pray thée euen for y<hi rend="sup">e</hi> honor of thine own name.
+<pb n="44" facs="tcp:183775:32"/>
+So wee thy peeple and ſhéepe of thy pa<g ref="char:EOLhyphen"/>ſture ſhall praiſe thée for euer,<note place="margin">
+                  <hi>Pſal.</hi> 79.13.</note> &amp; from ge<g ref="char:EOLhyphen"/>neration to generation we will ſet foorth thy praiſe. And, for as much as this work of thine is ſuch, that it ſhould not onelie mooue vs, to whome the comfort thereof doth ſpeciallie appertaine, but euen they alſo ſhould be touched with it, that diſſent from vs in religion, and deſired to haue ſéene our ruine (as well the Papiſtes of our owne nation, as thoſe that be in for<g ref="char:EOLhyphen"/>raigne countries:) becauſe, beſides the o<g ref="char:EOLhyphen"/>ther miracles recorded in thy woorde, wrought by thy ſonne Ieſus Chriſt, and his holy Apoſtles, for the confirmation of thy truth, thou haſt alſo by this our woon<g ref="char:EOLhyphen"/>derfull deliuerance, and confuſion of our enimies, ſealed this to be thy truth, which wee haue learned from the ſame worde, and whereof wee make profeſſion. We beſéech thée euen for theſe, that ſo manie of them as belong to thée, may by this oc<g ref="char:EOLhyphen"/>caſion the rather bee brought to ſée, howe deteſtable a thing in thy ſight, Romiſh and ſuperſtitious religion is, &amp; how thou ſetteſt thy ſelfe againſt ſuch as would vp<g ref="char:EOLhyphen"/>hold the ſame: that ſo they may not ſtand a farre off, gazing vpon this thy greate
+<pb n="45" facs="tcp:183775:32" rendition="simple:additions"/>
+worke,<note place="margin">
+                  <hi>Apoc.</hi> 18.9.10.11. <hi>Apoc.</hi> 18, 4. <hi>&amp;</hi> 19.20.</note> and bewailing this fall of the whore, but that indéede they may come forth of Babylon, vtterly renouncing the worſhippe of the beaſt and his image, ab<g ref="char:EOLhyphen"/>horring to carie the leaſt of his markes in their hands or forheads,<note place="margin">
+                  <hi>Apoc,</hi> 17.2.</note> and no longer to bee drunke, with the cup of her ſpirituall fornications. Yea, wee beſéech thée that hauing the miſtes and darkeneſſe of their minds chaſed away, they may at length, ſée the cleare light of thy goſpel, ſo to ioine with vs in one holy profeſſion grounded vpon thy word, that together we may be glad of this fall of <hi>Babylon,</hi> and ioyne all forces as it were into one, to giue her ac<g ref="char:EOLhyphen"/>cording as ſhee hath done to thy Saints.<note place="margin">
+                  <hi>Apoc.</hi> 18.6.</note> That in the end, the may haue the iudge<g ref="char:EOLhyphen"/>ment of an harlot executed vpon her, e<g ref="char:EOLhyphen"/>uen to bee rooted out for euer. That to their further condemnation, they bee not ſubiect to the reproofe, which thy ſpirit gi<g ref="char:EOLhyphen"/>ueth to ſuch as they be, that amended not by the vengeance powred vppon others, according as it is ſaide in the <hi>Apocalips,</hi>
+               <note place="margin">
+                  <hi>Apoc.</hi> 9.20.21.</note> The remnant of the men which were not killed by theſe plagues, repented not of the works of their hands, that they ſhold not worſhip deuils, &amp; Idols of golde and
+<pb n="46" facs="tcp:183775:33"/>
+ſiluer, and of braſſe, and of ſtone, &amp; of wood, which neither can ſée, neither can heare, nor goe. Alſo they repented not of their murthers and their ſorceries, neither of their fornication, nor of their theft. For their obſtinacie ſhall be greater, and their ſinne the more hainous in thy ſight, if ſo ſenſible a iudgement as this is, prouoke them not to giue thée glorie and to ſéeke after thy trueth. If there be anie of them ſo deſperatlie hardened, that in ſtéed of re<g ref="char:EOLhyphen"/>penting, they ſhall preſume more &amp; more, to ſet themſelues againſt thy holie ones, and to blaſpheme thy name,<note place="margin">
+                  <hi>Apoc.</hi> 16.9.</note> which haſt power ouer theſe plagues: We beſéech thée goe forwarde with this thy excellent worke perſecute them ſo continually, that they may know the<g ref="char:cmbAbbrStroke">̄</g>ſelues to be but men, and the Idols whom they ſerue, not to be God. Turne all their deuiſes vpon their owne heads, and bring them to ſuch miſe<g ref="char:EOLhyphen"/>ble confuſion, that they may for ſorrowe gnaſh their téeth, and at laſt be inforced to acknowledge thy power and iuſtice in their ruine, to whome they will not now ſtoope, to ſerue thée according to thy word, that they might be ſaued.</p>
+            <p>Yea, we beſéech thee, that all the nati<g ref="char:EOLhyphen"/>ons
+<pb facs="tcp:183775:33" rendition="simple:additions"/>
+of the heathen, to whom the reportes of theſe thy great acts ſhall come, may by this meanes bee mooued to inquire after thee, and to ſeeke to knowe thee, and thy good pleaſure in Chriſt Ieſus, whome thou haſt ſent to their ſaluation, if they be<g ref="char:EOLhyphen"/>leeue. That ſo departing from their ſuperſtitions and Idolatries, wherein they doe diſhonour thee, they may honor thy name in the knowledge of thy trueth. That wee our ſelues beholding theſe thinges, and the vtter confuſion of all ſuch as riſe vp againſt thee, and thy Chriſt,<note place="margin">
+                  <hi>Apoc.</hi> 20.10</note> may be aſſured that that time ap<g ref="char:EOLhyphen"/>procheth apace, when the deuill by whom they are led, the beaſt whome his fauou<g ref="char:EOLhyphen"/>rers haue worſhipped, and the falſe Pro<g ref="char:EOLhyphen"/>phetes, by whome they haue bene ſedu<g ref="char:EOLhyphen"/>ced, not being able to hurte anie more, becauſe their time is expired, ſhall be caſt into the lake of fire and brimſtone,<note place="margin">
+                  <hi>Apoc.</hi> 10.10.15.</note> where alſo they ſhall bee tormented day and night world without end, and with them euerie one not found in the booke of life. When likewiſe the Church being fréed from all their tyranny, ſhall come forth as a bride prepared for her huſband,<note place="margin">
+                  <hi>Apoc.</hi> 21.2.</note> to be ioi<g ref="char:EOLhyphen"/>ned with y<hi rend="sup">e</hi> lambe Ieſus Chriſt for euer:
+<pb n="48" facs="tcp:183775:34"/>
+Where ſhee ſhall hunger, thirſt, nor ſor<g ref="char:EOLhyphen"/>row any more, but hauing all teares wi<g ref="char:EOLhyphen"/>ped from her eies,<note place="margin">
+                  <hi>Apoc.</hi> 7.16.</note> ſhee ſhall enioy perfect bleſſedneſſe, in that heauenlie citie whoſe gates be of pearle,<note place="margin">
+                  <hi>Apoc.</hi> 21.2. <hi>Apoc.</hi> 21.18</note> whoſe walles bee pre<g ref="char:EOLhyphen"/>cious ſtones, and the citie it ſelfe, with the ſtreat therof pure golde, like cleare or ſhining glaſſe.<note place="margin">
+                  <hi>Apoc.</hi> 22.1.2</note> Wherein there is a riuer of water of life, cleare as chriſtall, procee<g ref="char:EOLhyphen"/>ding out of the throne of God and of the lamb, hauing of either ſide the trée of life, bearing twelue maner of fruites, and gi<g ref="char:EOLhyphen"/>uing fruit euerie moneth,<note place="margin">
+                  <hi>Apoc.</hi> 22.20</note> whoſe leaues are ſauing medicines for the heathen. O Lord Ieſus which ſo long ago ſaidſt I come quickly, euen ſo Lord Ieſus come, Amen. Amen.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:183775:34" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hou haſt (Chriſtian Reader) which thou haddeſt not in the firſt impreſſion, a godlie hymne or ſonge of thankſgiuing, concer<g ref="char:EOLhyphen"/>ning our deliuerance, penned by my reuerende and good friende in Chriſt M. Doctor Turner, who vnderſtan<g ref="char:EOLhyphen"/>ding of my poore trauaile in this ar<g ref="char:EOLhyphen"/>gument, wiſhed thou hadſt alſo beene partaker of that his labour with mine, and hath beene ſince content, that I ſhould publiſh it for thy profit. The benefite of our ſafetie is ſuch, and ſo wonderfull, that it deſerueth an often and moſt ſerious remembrance. If my
+<pb facs="tcp:183775:35"/>
+meditations ſeeme too long or not ſuch as content thee, I pray thee, vſe the helpe of this ſong, ſhorter, and commended vnto thee, in reſpect of the writer, and the ſweete manner of deliuering that taſte, the remem<g ref="char:EOLhyphen"/>brance whereof ſhoulde euery way be moſt pleaſant to thee. Forget not the goodnes of God helping thee ſo ma<g ref="char:EOLhyphen"/>ny waies, and offring thee one diſh of meate diuerſly dreſſed, that if it like thee not the one way, it may pleaſe thine appetite the other. If thou and thy familie learne to ſing it (which I pray thee may bee oftentimes done) I hope thou wilt find it comfortable to thy ſoule. And ſo I pray thee to giue God praiſe, and helpe ſuch with thy praiers, that deſire to helpe thee.</p>
+         </div>
+         <div type="song">
+            <pb facs="tcp:183775:35" rendition="simple:additions"/>
+            <head>A ſpirituall ſong to the praiſe of <hi>Almightie God, for deliuering</hi> ENGLAND from the Spani<g ref="char:EOLhyphen"/>ards.</head>
+            <byline>By <hi>P. Turner</hi> Doctor <hi>of Phiſicke.</hi>
+            </byline>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Hadſt y<hi rend="sup">u</hi> not watcht (ô lord) our coaſts to keep,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> And hadſt not thou wel warded al our bounds,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Our cruell foes had caught vs all a ſleep,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> And ſonck our ſhips &amp; ſackt our hauen towns.</l>
+            </lg>
+            <pb facs="tcp:183775:36"/>
+            <lg>
+               <l>All laud therefore, from heart we yeeld to thee,</l>
+               <l>That hideſt not thy face from thine at neede,</l>
+               <l>But doeſt ſtill ſtand by them as now we ſee,</l>
+               <l>When bloudy foes do think them out to weede.</l>
+            </lg>
+            <lg>
+               <l>Hadſt thou not bin our Queene had bin no more,</l>
+               <l>And ſlauiſh yoke had all our necks oppreſt,</l>
+               <l>None ſhould haue taught, or followed thy lore,</l>
+               <l>Hadſt thou not bin who could haue this redreſt.</l>
+            </lg>
+            <lg>
+               <l>All laude therfore that heart can think or yeeld.</l>
+               <l>Be vnto thee O Father deere for aie,</l>
+               <l>That waſt to vs ſo ſtrong a fence and ſhield,</l>
+               <l>And of thy goodnes kept vs from decaie.</l>
+            </lg>
+            <lg>
+               <l>Hadſt thou not bin, then had the man of ſin,</l>
+               <l>Set vp himſelfe, thy Church to ouerthrow,</l>
+               <l>And then what caſe had all thy ſaints bin in?</l>
+               <l>But thou O Lord wouldſt not let it be ſo.</l>
+            </lg>
+            <lg>
+               <l>O all the powers both of our ſoule and minde,</l>
+               <l>Sing laude and praiſe both now and euermore,</l>
+               <l>To our good God that was and is ſo kinde,</l>
+               <l>And hath repeld the Lion from our dore.</l>
+            </lg>
+            <lg>
+               <l>Hadſt thou not made thy windes for vs to fight,</l>
+               <l>Hadſt thou not ſtretched forth for vs thy hand,</l>
+               <l>Hadſt thou not put our proud foes all to flight,</l>
+               <l>O what ſhould then haue come to this our land.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:183775:36" rendition="simple:additions"/>
+               <l>All praiſe therefore to thee O Lord our God,</l>
+               <l>That letteſt thus thy mercies great appeare,</l>
+               <l>In ſauing vs from cruell forraigne rod,</l>
+               <l>The Spaniſh Fleete and force that was ſo neare.</l>
+            </lg>
+            <lg>
+               <l>Hadſt thou not ouerwhelmde our foes with flouds,</l>
+               <l>Hadſt thou not cauſde the ſeas to be their graues,</l>
+               <l>Then had our ſtreetes bin died with our blouds,</l>
+               <l>And all our babes bin marked for their ſlaues.</l>
+            </lg>
+            <lg>
+               <l>Moſt humble thankes therefore vnto thy grace,</l>
+               <l>With one accord we giue O God aboue,</l>
+               <l>Who thus haſt kept vs from the Spaniſh race,</l>
+               <l>And let vs taſt thy mercies and thy loue.</l>
+            </lg>
+            <lg>
+               <l>And hadſt not thou vs ſaued from our feares,</l>
+               <l>And heard the cries that ſtrangers made to thee,</l>
+               <l>In ſteede of Pſalmes we had now offred teares,</l>
+               <l>And ſlaine at once had bin both they and wee.</l>
+            </lg>
+            <lg>
+               <l>For ſauing vs therefore from all theſe wrongs,</l>
+               <l>All laude to thee O our moſt holy King,</l>
+               <l>Who thus didſt turne our faſtings into ſongs,</l>
+               <l>With all our hearts we all vnto thee ſing.</l>
+            </lg>
+            <lg>
+               <l>From high to lowe we muſt and doe confeſſe,</l>
+               <l>If thou hadſt let thoſe plagues on vs to light,</l>
+               <l>Such are our ſinnes, and ſuch our wickedneſſe,</l>
+               <l>Thou hadſt done well, and we had had but right.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:183775:37"/>
+               <l>But Lord what thankes can ſinfull man deuiſe,</l>
+               <l>(whoſe thoghts &amp; deeds ca<g ref="char:cmbAbbrStroke">̄</g> ſta<g ref="char:cmbAbbrStroke">̄</g>d him in no ſteed)</l>
+               <l>To offer thee, but thou maiſt them deſpiſe?</l>
+               <l>None none O God as of our ſelues indeed.</l>
+            </lg>
+            <lg>
+               <l>But therefore Lord, as at thy ſonnes requeſt,</l>
+               <l>Thou haſt vs kept, and ſaued from all woe,</l>
+               <l>So for his ſake whom thou accepteſt beſt,</l>
+               <l>Accept the thankes which we doe yeelde alſo.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
